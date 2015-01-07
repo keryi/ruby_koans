@@ -1,3 +1,6 @@
+= Ruby journey never complete without Ruby Koans
+Meditating...
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
